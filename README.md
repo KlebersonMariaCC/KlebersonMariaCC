@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 - 🔭 Estudante de Ciência da Computação - UFCG
-- 🌱 Atualmente estou aprendendo Análise de Dados e Desenvolvimento Web
+- 🌱 Atualmente estou aprendendo Análise de Dados e Desenvolvimento Web (com foco em Backend)
 - 👯 Estou procurando colaborar em projetos empolgantes e desafiadores.
 - 💬 Pergunte-me sobre Lógica, Matemática, Estatística e afins...
   
