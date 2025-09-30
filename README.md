@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-![PosgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- 🔭 Estudante de Ciência da Computação - UFCG
+- 🔭 Ciência da Computação - UFCG
 - 🌱 Atualmente estou aprendendo Análise de Dados e Desenvolvimento Web (com foco em Backend)
 - 👯 Estou procurando colaborar em projetos empolgantes e desafiadores.
 - 💬 Pergunte-me sobre Lógica, Matemática, Estatística e afins...
